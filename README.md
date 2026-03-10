@@ -31,7 +31,7 @@ const romain = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/>&ensp;cat-stack.yml-00FF41?style=flat-square&labelColor=0D1117" />
+## `> cat stack.yml`
 
 ```yaml
 frontend:
@@ -62,7 +62,7 @@ infra:
 
 <br/>
 
-## <img src="https://img.shields.io/badge/>&ensp;ls-projects%2F-00FF41?style=flat-square&labelColor=0D1117" />
+## `> ls projects/`
 
 ```
 drwxr-xr-x  romain  romain  4096  snowshare/
@@ -75,7 +75,7 @@ drwxr-xr-x  romain  romain  4096  snowshare/
 
 <br/>
 
-## <img src="https://img.shields.io/badge/>&ensp;uptime-00FF41?style=flat-square&labelColor=0D1117" />
+## `> uptime`
 
 ```
  09:42:17 up since 2005, mass of spaghetti code written,
@@ -85,7 +85,7 @@ drwxr-xr-x  romain  romain  4096  snowshare/
 
 <br/>
 
-## <img src="https://img.shields.io/badge/>&ensp;neofetch---stats-00FF41?style=flat-square&labelColor=0D1117" />
+## `> neofetch --stats`
 
 <div align="center">
 
@@ -105,7 +105,7 @@ drwxr-xr-x  romain  romain  4096  snowshare/
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00FF41/TuroYT" alt="contribution graph" width="75%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuroYT&theme=github_dark" width="80%" />
 
 <br/><br/>
 
